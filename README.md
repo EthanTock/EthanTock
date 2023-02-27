@@ -1,12 +1,9 @@
 Hi! I'm Ethan Tock.
 
-I am 16 years old and a high school sophomore with a passion for STEM.
+I am 16 years old and a high school junior with a passion for STEM.
 
-I'm an intermediate hobby Python developer with many toys and apps under my belt, the more official of which will be published here.
-This summer, I would be very eager to have a Python internship to learn lots more about the language I am best at!
-
-Contact:
-tock.ethan.s@gmail.com
+I'm currently learning Java and I am quite adept at Python.
+I'm building a physics engine right now, based on what I've learned about physics, vectors, and calculus.
 
 <!---
 EthanTock/EthanTock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
