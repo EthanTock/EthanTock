@@ -1,9 +1,9 @@
 Hi! I'm Ethan Tock.
 
-I am 16 years old and a high school junior with a passion for STEM.
+I am 17 years old and a high school junior with a passion for STEM.
 
-I'm currently learning Java and I am quite adept at Python.
-I'm building a physics engine right now, based on what I've learned about physics, vectors, and calculus.
+I'm currently quite adept at Java and Python, and I'm learning how to use object-oriented programming to its fullest.
+I'm building an indie game with one of my friends right now, and it's still in its initial stages of development.
 
 This account is a library of all of my favorite programs that I have created. Enjoy exploring it!
 
